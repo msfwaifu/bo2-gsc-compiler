@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Assets_Loader\Compiler\bin\Release\Compiler.dll
+C:\Users\user\Desktop\Assets_Loader\Compiler\bin\Release\Compiler.pdb
+C:\Users\user\Desktop\Assets_Loader\Compiler\bin\Release\Irony.dll
+C:\Users\user\Desktop\Assets_Loader\Compiler\obj\Release\Compiler.dll
+C:\Users\user\Desktop\Assets_Loader\Compiler\obj\Release\Compiler.pdb

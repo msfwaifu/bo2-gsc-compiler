@@ -1,0 +1,2 @@
+C:\Users\owo\Desktop\SourceCode\Assets_Loader\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\owo\Desktop\SourceCode\Assets_Loader\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache

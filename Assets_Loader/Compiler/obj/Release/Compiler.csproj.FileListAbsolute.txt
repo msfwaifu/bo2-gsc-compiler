@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Assets_Loader\Compiler\bin\Release\Compiler.dll
+C:\Users\user\Desktop\Assets_Loader\Compiler\bin\Release\Compiler.pdb
+C:\Users\user\Desktop\Assets_Loader\Compiler\bin\Release\Irony.dll
+C:\Users\user\Desktop\Assets_Loader\Compiler\obj\Release\Compiler.dll
+C:\Users\user\Desktop\Assets_Loader\Compiler\obj\Release\Compiler.pdb
+C:\Users\owo\Desktop\SourceCode\Assets_Loader\Compiler\obj\Release\Compiler.dll
+C:\Users\owo\Desktop\SourceCode\Assets_Loader\Compiler\obj\Release\Compiler.pdb
+C:\Users\owo\Desktop\SourceCode\Assets_Loader\Compiler\bin\Release\Compiler.dll
+C:\Users\owo\Desktop\SourceCode\Assets_Loader\Compiler\bin\Release\Compiler.pdb
+C:\Users\owo\Desktop\SourceCode\Assets_Loader\Compiler\obj\Release\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\owo\Desktop\SourceCode\Assets_Loader\Compiler\obj\Release\Compiler.csproj.CopyComplete
+C:\Users\owo\Desktop\SourceCode\Assets_Loader\Compiler\obj\Release\Compiler.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Assets_Loader\Assets_Loader\bin\Release\Assets_Loader.exe.config
+C:\Users\user\Desktop\Assets_Loader\Assets_Loader\obj\Release\Assets_Loader.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Assets_Loader\Assets_Loader\bin\Release\Assets_Loader.exe
+C:\Users\user\Desktop\Assets_Loader\Assets_Loader\bin\Release\Assets_Loader.pdb
+C:\Users\user\Desktop\Assets_Loader\Assets_Loader\bin\Release\Compiler.dll
+C:\Users\user\Desktop\Assets_Loader\Assets_Loader\bin\Release\Irony.dll
+C:\Users\user\Desktop\Assets_Loader\Assets_Loader\bin\Release\Compiler.pdb
+C:\Users\user\Desktop\Assets_Loader\Assets_Loader\obj\Release\Assets_Loader.exe
+C:\Users\user\Desktop\Assets_Loader\Assets_Loader\obj\Release\Assets_Loader.pdb
